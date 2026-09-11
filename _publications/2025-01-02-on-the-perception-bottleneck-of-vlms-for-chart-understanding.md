@@ -12,4 +12,4 @@ venue: 'Arxiv'
 
 *On the Perception Bottleneck of VLMs for Chart Understanding.* Arxiv, 2025. (First author)
 
-Code available on GitHub: [Vision4Chart](https://github.com/Vicent0205/Vision4Chart)
+Code available on GitHub: Vision4Chart
