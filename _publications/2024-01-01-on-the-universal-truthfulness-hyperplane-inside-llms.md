@@ -12,4 +12,4 @@ venue: 'EMNLP 2024'
 
 *On the Universal Truthfulness Hyperplane Inside LLMs.* EMNLP 2024. (First author)
 
-Code available on GitHub: [Universal_Truthfulness_Hyperplane](https://github.com/Vicent0205/Universal_Truthfulness_Hyperplane)
+Code available on GitHub: Universal_Truthfulness_Hyperplane
